@@ -9,3 +9,4 @@ collect nlp tasks and datasets for further research.
 ## Foreign NLP
 ### Question Answering
 1. [SQuAD: Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
+2. [NewsQA](https://arxiv.org/pdf/1611.09830.pdf)
