@@ -5,6 +5,9 @@ collect nlp tasks and datasets for further research.
 ### Text Summarization
 1. [LCSTS](https://arxiv.org/abs/1506.05865).
 
+### Question Answering
+1. [couplet dataset.](https://github.com/wb14123/couplet-dataset)
+
 
 ## Foreign NLP
 ### Question Answering
