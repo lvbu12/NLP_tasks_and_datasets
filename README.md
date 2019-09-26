@@ -16,3 +16,6 @@ collect nlp tasks and datasets for further research.
 
 ### Reading Comprehension
 1. [RACE](https://arxiv.org/pdf/1704.04683.pdf)
+
+### Text Summarization
+1、[Email Subject Line Generation](https://arxiv.org/pdf/1906.03497.pdf)
