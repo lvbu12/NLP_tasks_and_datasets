@@ -18,4 +18,6 @@ collect nlp tasks and datasets for further research.
 1. [RACE](https://arxiv.org/pdf/1704.04683.pdf)
 
 ### Text Summarization
-1、[Email Subject Line Generation](https://arxiv.org/pdf/1906.03497.pdf)
+1. [Email Subject Line Generation](https://arxiv.org/pdf/1906.03497.pdf)
+
+2. [NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies](https://arxiv.org/pdf/1804.11283.pdf)
