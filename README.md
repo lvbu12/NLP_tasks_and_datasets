@@ -25,3 +25,7 @@ collect nlp tasks and datasets for further research.
 ### Dialogue generation
 
 1.[The Ubuntu Dialogue Corpus](https://arxiv.org/abs/1506.08909)
+
+2. [E-commerce Dialogue Corpus](https://arxiv.org/abs/1806.09102)
+
+3. [Douban Conversation Corpus](https://aclweb.org/anthology/P17-1046/)
